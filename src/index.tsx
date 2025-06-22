@@ -1,5 +1,11 @@
 import './index.css';
-import React from "react";
 import { render } from "react-dom";
 import { App } from "./App";
-render(<App />, document.getElementById("root"));
+import { BrowserRouter } from "react-router-dom"; // Add this import
+
+render(
+  <BrowserRouter basename="/Shanikaportfolio">
+    <App />
+  </BrowserRouter>,
+  document.getElementById("root")
+);
