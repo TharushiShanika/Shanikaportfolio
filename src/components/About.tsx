@@ -13,10 +13,10 @@ export const About = () => {
           </div>
           <div className="w-full md:w-2/3">
             <p className="text-lg text-gray-700 mb-6">
-             I’m Tharushi Shanika, a passionate graduate in Information Technology from SLIIT. I hold a BSc (Hons) Degree in IT, 
-             specialized in core areas such as software development, systems analysis, and data management. I’m eager to apply my knowledge and skills to real-world projects, 
-             continuously enhancing my technical expertise, problem-solving ability, 
-             and innovation in the IT field.
+            I’m Tharushi Shanika, a passionate graduate in Information Technology from SLIIT. I hold a BSc (Hons) Degree in IT, 
+            specialized in core areas such as software development, systems analysis, and data management. 
+            I’m eager to apply my knowledge and skills to real-world projects, continuously enhancing my technical expertise, problem-solving ability, 
+            and innovation in the IT field.
             </p>
           </div>
         </div>
