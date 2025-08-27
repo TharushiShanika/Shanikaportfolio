@@ -1,4 +1,3 @@
-import React from 'react';
 import { ChevronDownIcon } from 'lucide-react';
 export const Hero = () => {
   return <section className="w-full bg-gradient-to-r from-blue-50 to-indigo-50 py-20 md:py-32">
