@@ -1,4 +1,3 @@
-import React from 'react';
 export const About = () => {
   return <section id="about" className="py-16 md:py-24 bg-white w-full">
       <div className="container mx-auto px-4">
