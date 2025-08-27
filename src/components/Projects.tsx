@@ -14,7 +14,15 @@ export const Projects = () => {
     technologies: ['React', 'Springboot', 'MongoDB'],
     githubUrl: 'https://github.com/IT21171406/ITP_PROJECT.git',
    
-  }, {
+  }, 
+  {
+    title: 'Project Two',
+    description: 'WordPress-based web application.',
+    image: 'https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1115&q=80',
+    technologies: ['WordPress', 'Elementor'],
+    liveUrl:'https://kantex.lk/',
+   
+  },{
     title: 'Project Three',
     description: ' Led the development of a mobile application using Firebase,Kotlin, and Android Studio.',
     image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80',
